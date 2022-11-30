@@ -1,0 +1,8 @@
+project:
+  title: "quarto-github-pages-example"
+  type: website
+  output-dir: docs
+  
+
+
+
