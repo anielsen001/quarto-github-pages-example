@@ -3,6 +3,13 @@ project:
   type: website
   output-dir: docs
   
+website:
+  twitter-card:
+    creator: "@anielsen001"
+    site: "anielsen001"
+  open-graph: true
+  google-analytics: "G-YGZBVXBKL4"
 
+  
 
 
