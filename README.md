@@ -2,6 +2,9 @@
 
 This is an example repo to publish a quarto document to the web. 
 
+- GitHub repo: <https://github.com/anielsen001/quarto-github-pages-example>
+- GitHib.io pages: <https://anielsen001.github.io/quarto-github-pages-example>
+
 ## Set up
 
 Create quarto project
